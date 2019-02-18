@@ -7,5 +7,6 @@ Setting up a professional React project width Parcel as a code bundler.
 
 - React ✅
 - ES6 width Babel ✅
+- TypeScipt
 - SCSS
 - CSS Modules
